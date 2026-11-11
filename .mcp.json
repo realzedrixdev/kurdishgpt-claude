@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kurdishgpt": {
+      "type": "http",
+      "url": "https://kurdishgpt.com/mcp"
+    }
+  }
+}
