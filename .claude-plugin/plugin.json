@@ -1,0 +1,9 @@
+{
+  "name": "kurdishgpt",
+  "version": "1.0.0",
+  "description": "Sorani Kurdish writing, translation and dictionary lookup.",
+  "author": {
+    "name": "Karden Karwan"
+  },
+  "homepage": "https://kurdishgpt.com"
+}
