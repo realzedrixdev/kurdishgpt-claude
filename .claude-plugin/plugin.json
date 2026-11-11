@@ -5,5 +5,7 @@
   "author": {
     "name": "Karden Karwan"
   },
-  "homepage": "https://kurdishgpt.com"
+  "homepage": "https://kurdishgpt.com",
+  "displayName": "KurdishGPT",
+  "privacyPolicyUrl": "https://kurdishgpt.com/privacy"
 }
